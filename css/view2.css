@@ -1,0 +1,75 @@
+
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+th, td {
+    text-align: left;
+    padding: 8px;
+    background-color: lightslategray;
+}
+
+
+tr:nth-child(even) {
+    background-color: black;
+}
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  nav li {
+    float: left;
+  }
+  
+  nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  nav li a:hover {
+    background-color: #111;
+  }
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+  }
+
+
+tr:nth-child(even) {
+    background-color: white;
+    
+}
+
+body {
+    margin: 10px; /* Add space around the body */
+    padding-top: 30px;
+    background-image: url('benmak.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+
+table {
+    width: 100%;
+    max-width: 800px; /* Set a maximum width for the table */
+    margin: 10px auto; /* Center the table horizontally */
+}
+
+.selection-container {
+    margin-top: 20px; /* Adjust this value to your preference */
+  }
+
+  
