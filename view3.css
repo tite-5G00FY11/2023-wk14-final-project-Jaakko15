@@ -1,0 +1,54 @@
+nav {
+    background-color: #333;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  nav li {
+    float: left;
+  }
+  
+  nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  nav li a:hover {
+    background-color: #111;
+  }
+  .chart-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh; /* adjust this value to move the chart vertically */
+    width: 80%; /* adjust this value to change the chart width */
+    margin: 0 auto; /* centers the chart horizontally */
+    margin-top: 40px; /* Adjust this value to increase or decrease the space */
+   
+
+    
+
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Set the height to 100% of the viewport height */
+    margin: 0;
+    padding: 0;
+  }
+  
+  .statistics {
+    text-align: center;
+    margin-top: 20px; /* Adjust the space between the chart and the statistics */
+  }
