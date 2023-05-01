@@ -1,4 +1,4 @@
-const humidityOutEndpoint = 'http://webapi19sa-1.course.tamk.cloud/v1/weather/humidity_out/24';
+const humidityOutEndpoint = 'https://webapi19sa-1.course.tamk.cloud/v1/weather/humidity_out/24';
 
 async function fetchData(endpoint) {
     const response = await fetch(endpoint);

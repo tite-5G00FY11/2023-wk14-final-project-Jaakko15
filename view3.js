@@ -1,4 +1,4 @@
-const latestTemperatureEndpoint = 'http://webapi19sa-1.course.tamk.cloud/v1/weather/temperature';
+const latestTemperatureEndpoint = 'https://webapi19sa-1.course.tamk.cloud/v1/weather/temperature';
 
 async function fetchData(endpoint, hours) {
   let url = endpoint;

@@ -1,4 +1,4 @@
-const latestReadingsEndpoint = 'http://webapi19sa-1.course.tamk.cloud/v1/weather/limit/50';
+const latestReadingsEndpoint = 'https://webapi19sa-1.course.tamk.cloud/v1/weather/limit/50';
 
 async function fetchData(endpoint) {
     const response = await fetch(endpoint);
