@@ -1,0 +1,105 @@
+nav {
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav li a:hover {
+  background-color: #111;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin-top: 70px;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 40px;
+  margin-top: 70px;
+  color: black;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: center;
+  background-color: #f2f2f2;
+}
+
+button {
+  margin-top: 20px;
+}
+
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.container {
+  margin-top: 70px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 40px;
+}
+
+canvas#latestTemperatureChart {
+  width: 50%;
+  height: 400px;
+  margin: 0 auto;
+  position: fixed;
+}
+
+
+
+
+.view2 {
+  background-image: url('benmak.jpg');
+  background-size: 100%;
+}
+
+.view3 {
+  background-image: url('benmak.jpg');
+  background-size: 100%;
+
+}
+
+.view4 {
+  background-image: url('benmak.jpg');
+  background-size: 100%;
+
+}
