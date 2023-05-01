@@ -67,7 +67,6 @@ async function init() {
     signalSelect.addEventListener('change', updateTable);
     timeSelect.addEventListener('change', updateTable);
 
-    // Fetch and display 50 latest readings
     await updateTable();
 }
 

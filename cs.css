@@ -85,26 +85,19 @@ canvas#latestTemperatureChart {
 }
 
 
-/* View 1 */
-.menu {
-  background-image: url('benmak.jpg');
-  background-size: 100%;
-}
 
-/* View 2 */
+
 .view2 {
   background-image: url('benmak.jpg');
   background-size: 100%;
 }
 
-/* View 3 */
 .view3 {
   background-image: url('benmak.jpg');
   background-size: 100%;
 
 }
 
-/* View 4 */
 .view4 {
   background-image: url('benmak.jpg');
   background-size: 100%;

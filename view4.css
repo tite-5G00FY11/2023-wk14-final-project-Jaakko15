@@ -29,9 +29,9 @@ nav li a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 80vh; /* adjust this value to move the chart vertically */
-  width: 60%; /* adjust this value to change the chart width */
-  margin: 0 auto; /* centers the chart horizontally */
+  height: 80vh; 
+  width: 60%; 
+  margin: 0 auto; 
   margin-top: 40px;
 }
 
@@ -43,7 +43,7 @@ body {
   height: 100vh;
   margin: 0;
   padding: 0;
-  overflow: hidden; /* Prevent scrolling */
+  overflow: hidden; 
   background-image: url('benmak.jpg');
   background-size: cover;
   background-repeat: no-repeat;

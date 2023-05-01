@@ -28,10 +28,10 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 60vh; /* adjust this value to move the chart vertically */
-    width: 80%; /* adjust this value to change the chart width */
-    margin: 0 auto; /* centers the chart horizontally */
-    margin-top: 40px; /* Adjust this value to increase or decrease the space */
+    height: 60vh; 
+    width: 80%; 
+    margin: 0 auto;
+    margin-top: 40px; 
    
 
     
@@ -43,12 +43,12 @@ nav {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh; /* Set the height to 100% of the viewport height */
+    height: 100vh; 
     margin: 0;
     padding: 0;
   }
   
   .statistics {
     text-align: center;
-    margin-top: 20px; /* Adjust the space between the chart and the statistics */
+    margin-top: 20px; 
   }

@@ -52,7 +52,7 @@ tr:nth-child(even) {
 }
 
 body {
-    margin: 10px; /* Add space around the body */
+    margin: 10px;
     padding-top: 30px;
     background-image: url('benmak.jpg');
     background-size: cover;
@@ -64,12 +64,12 @@ body {
 
 table {
     width: 100%;
-    max-width: 800px; /* Set a maximum width for the table */
-    margin: 10px auto; /* Center the table horizontally */
+    max-width: 800px; 
+    margin: 10px auto;
 }
 
 .selection-container {
-    margin-top: 20px; /* Adjust this value to your preference */
+    margin-top: 20px; 
   }
 
   
